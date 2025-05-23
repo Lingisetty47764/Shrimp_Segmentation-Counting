@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+matplotlib
+shapely
+labelme
+numpy
+pillow
+pandas
+scikit-learn
